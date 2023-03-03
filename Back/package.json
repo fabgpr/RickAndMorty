@@ -1,0 +1,18 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/server.js"
+  },
+  "author": "Canti",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
